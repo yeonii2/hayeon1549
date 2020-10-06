@@ -1,9 +1,9 @@
 <p align=right>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayeon1549&count_bg=%23668EFD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <img src="https://img.shields.io/github/followers/hayeon1549?style=social">
+  <img src="https://img.shields.io/github/followers/hayeon1549?style=social"> 
 </p>
 
-## HayeonHong | 홍하연(洪하연) 
+# HayeonHong | 홍하연(洪하연) 
 ### Android Software Engineer
 
 > 🐝 호기심이 도전을, 도전이 성장을.
@@ -19,7 +19,7 @@
 
 ---
 
-## 🏆 Awards 수상
+## 🏆 Awards | 수상
 - 2019 SW마이스터고 연합 해커톤 정보통신기획평가원장상(1등) 및 인기상 - Mood;let
 - Smarteen App+ Challenge 2020 수상 - Simfor Pay
 
@@ -48,9 +48,12 @@
 <image src="https://user-images.githubusercontent.com/41175122/95154368-a4878600-07cc-11eb-9783-e7af4fb769b3.png" width="150"> <image src="https://user-images.githubusercontent.com/41175122/95154364-a3eeef80-07cc-11eb-803f-75e9d97d9a67.png" width="150"> 
 <image src="https://user-images.githubusercontent.com/41175122/95154366-a4878600-07cc-11eb-9a66-8de358e41ab5.png" width="150"> 
 <image src="https://user-images.githubusercontent.com/41175122/95154362-a2bdc280-07cc-11eb-80b6-f18423c9c0ee.png" width="150">  
-
-<div align=center>
   
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hayeon01549@gmail.com)](mailto:hayeon01549@gmail.com)
-  
-</div>
+## 🎓 Certificate | 자격증
+- ISTQB
+- 웹디자인기능사
+- 정보처리기능사
+- 컴퓨터활용능력 2급
+- TOPCIT 165점
+- MPP 데이터사이언스 초급
+- 한국사능력검정시험 2급
