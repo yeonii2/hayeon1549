@@ -17,8 +17,6 @@
 ### Sub Stack
 <image src="https://user-images.githubusercontent.com/41175122/95147862-e8728f00-07bc-11eb-99e5-f1ec63f0b154.png" height="50">
 
----
-
 ## 🏆 Awards | 수상
 - 2019 SW마이스터고 연합 해커톤 정보통신기획평가원장상(1등) 및 인기상 - Mood;let
 - Smarteen App+ Challenge 2020 수상 - Simfor Pay
