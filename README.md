@@ -55,5 +55,5 @@
 - 정보처리기능사
 - 컴퓨터활용능력 2급
 - TOPCIT 165점
-- MPP 데이터사이언스 초급
+- Microsoft Professional Program Data Science
 - 한국사능력검정시험 2급
