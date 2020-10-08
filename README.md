@@ -48,12 +48,3 @@
 <image src="https://user-images.githubusercontent.com/41175122/95154368-a4878600-07cc-11eb-9783-e7af4fb769b3.png" width="150"> <image src="https://user-images.githubusercontent.com/41175122/95154364-a3eeef80-07cc-11eb-803f-75e9d97d9a67.png" width="150"> 
 <image src="https://user-images.githubusercontent.com/41175122/95154366-a4878600-07cc-11eb-9a66-8de358e41ab5.png" width="150"> 
 <image src="https://user-images.githubusercontent.com/41175122/95154362-a2bdc280-07cc-11eb-80b6-f18423c9c0ee.png" width="150">  
-  
-## 🎓 Certificate | 자격증
-- ISTQB
-- 웹디자인기능사
-- 정보처리기능사
-- 컴퓨터활용능력 2급
-- TOPCIT 165점
-- Microsoft Professional Program Data Science
-- 한국사능력검정시험 2급
