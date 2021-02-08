@@ -4,7 +4,7 @@
 </p>
 
 # HayeonHong | 홍하연(洪하연) 
-### Android Software Engineer
+### Software Engineer
 
 > 🐝 호기심이 도전을, 도전이 성장을.
 
