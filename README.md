@@ -9,8 +9,8 @@
 > 🐝 호기심이 도전을, 도전이 성장을.
 
 <!--
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hayeon1549)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayeon1549&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeonii2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonii2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 ### Main Stack
