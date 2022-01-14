@@ -21,7 +21,7 @@
 
 ## 🏆 Awards | 수상
 - 2019 SW마이스터고 연합 해커톤 정보통신기획평가원장상(1등) 및 인기상 - Mood;let
-- Smarteen App+ Challenge 2020 수상 - Simfor Pay
+- Smarteen App+ Challenge 2020 대상 수상 - Simfor Pay
 
 ### <image src="https://user-images.githubusercontent.com/41175122/95153777-3db59d00-07cb-11eb-9908-939919b62073.png" width="18"> Mood;let
 > 무드 트래커 어플리케이션으로 하루의 기분을 색 심리 치료와 동시에 간편한 다이어리 기능이 있는 앱을 제공한다.
