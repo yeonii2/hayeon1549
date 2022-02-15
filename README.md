@@ -1,6 +1,6 @@
 <p align=right>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhayeon1549&count_bg=%23668EFD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <img src="https://img.shields.io/github/followers/hayeon1549?style=social"> 
+  <img src="https://img.shields.io/github/followers/yeonii2?style=social"> 
 </p>
 
 # HayeonHong | 홍하연(洪하연) 
